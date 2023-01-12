@@ -1,3 +1,1 @@
-node 'your-server-name' {
-  include nginx
-}
+include nginx::proxy
