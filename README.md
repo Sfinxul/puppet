@@ -1,4 +1,4 @@
-# puppet
+# Puppet nginx module
 This is a repo for puppet modules and tests
 
 This nginx Puppet module creates three classes: nginx::redirects, nginx::logging, and nginx::proxy_health_check.
